@@ -9,9 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdi-rabbani-syachandri-9a306b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdi-rabbani-syachandri-9a306b21a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdi-rabbani-syachandri-9a306b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdi-rabbani-syachandri-9a306b21a/" height="30" width="40" /></a>
 <a href="https://instagram.com/abdi_r_bani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdi_r_bani" height="30" width="40" /></a>
 <a href="https://dribbble.com/ar-bani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ar-bani" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rexx channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rexx channel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
