@@ -1,8 +1,9 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Abdi Rabbani .S</h1>
 <h3 align="center">A Software Developer Junior From Indonesian.</h3>
 
-- 🌱 I’m currently learning Mobile and Web Dev **Kotlin, Flutter, JavaScript, HTML,CSS**
+- 👨‍🎓 I’m currently studying on **IDN Boarding School**
+
+- 🌱 I’m currently learning **Kotlin, Flutter, JavaScript, HTML,CSSKotlin, JavaScript, HTML, Kotlin, Flutter, JavaScript, HTML,CSS**
 
 - 📫 How to reach me **abdirabbani59@gmail.com**
 
@@ -21,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdirabbani&show_icons=true&locale=en" alt="abdirabbani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdirabbani&" alt="abdirabbani" /></p>
-
