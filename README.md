@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdi Rabbani .S</h1>
+<h1 align="center">Hi 👋, I'm Abdi</h1>
 <h3 align="center">A Software Developer Junior From Indonesian.</h3>
 
 - 👨‍🎓 I’m currently studying on **IDN Boarding School**
