@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdi</h1>
 <h3 align="center">A Software Developer Junior From Indonesian.</h3>
 
+[![@abdirabbani's Holopin board](https://holopin.io/api/user/board?user=abdirabbani)](https://holopin.io/@abdirabbani)
+
 - 👨‍🎓 I’m currently studying on **IDN Boarding School**
 
 - 🌱 I’m currently learning **Kotlin, Flutter, JavaScript, HTML,CSSKotlin, JavaScript, HTML, Kotlin, Flutter, JavaScript, HTML,CSS**
@@ -23,7 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdirabbani&show_icons=true&locale=en" alt="abdirabbani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdirabbani&" alt="abdirabbani" /></p>
-
-[![@abdirabbani's Holopin board](https://holopin.io/api/user/board?user=abdirabbani)](https://holopin.io/@abdirabbani)
 
 <p><a href="https://www.buymeacoffee.com/abdirabbanz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdirabbanz" /></a></p><br><br>
