@@ -24,4 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdirabbani&" alt="abdirabbani" /></p>
 
+[![@abdirabbani's Holopin board](https://holopin.io/api/user/board?user=abdirabbani)](https://holopin.io/@abdirabbani)
+
 <p><a href="https://www.buymeacoffee.com/abdirabbanz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdirabbanz" /></a></p><br><br>
