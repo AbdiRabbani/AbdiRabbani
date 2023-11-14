@@ -13,6 +13,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/AbdiRabbani/AbdiRabbani/output/snake.svg" alt="Snake animation" />
 
 ###
