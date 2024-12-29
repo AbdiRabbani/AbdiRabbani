@@ -1,4 +1,4 @@
-<p align="center">Hello World!!, Im Abdi<br>a Fullstack Web developer from indonesia</p>
+<p align="center">Hello World!!, Im Abdi<br>a Web developer from indonesia</p>
 
 ###
 
