@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Positioned as a full stack web developer who has 2 years of learning experience and 1 year of internship which of course greatly contributes to several projects.</p>
+<p align="left">Positioned as a web developer specially in ERP and WMS who has 2 years of learning experience, 1 year of internship And 2 Years Working on ERP project which of course greatly contributes to several projects.</p>
 
 ###
 
